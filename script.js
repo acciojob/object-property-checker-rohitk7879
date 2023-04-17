@@ -5,7 +5,7 @@ function hasKey(key) {
 	for(let color in sampleObject){
 		if(key === color)
 		return true;
-		  }
+		  
 	}
 	return false;
 }
